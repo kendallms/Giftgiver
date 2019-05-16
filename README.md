@@ -1,6 +1,6 @@
 # Giftgiver
 
-Giftgiver is a small React app that allows the user to create a list of gifts for their associated person. It was build with the Test-Driven Development approach. 
+Giftgiver is a small React app that allows the user to create a list of gifts for their associated person. It was built with the Test-Driven Development approach and utilizes Jest and Enzyme.
 
 ## Download & Run
 
